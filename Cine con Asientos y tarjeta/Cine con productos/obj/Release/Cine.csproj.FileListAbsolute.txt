@@ -1,0 +1,45 @@
+D:\app\App1\Cine\Cine\bin\Release\Cine.exe.config
+D:\app\App1\Cine\Cine\bin\Release\Cine.exe
+D:\app\App1\Cine\Cine\bin\Release\Cine.pdb
+D:\app\App1\Cine\Cine\bin\Release\Guna.UI.dll
+D:\app\App1\Cine\Cine\obj\Release\Cine.csproj.AssemblyReference.cache
+D:\app\App1\Cine\Cine\obj\Release\Cine.csproj.SuggestedBindingRedirects.cache
+D:\app\App1\Cine\Cine\obj\Release\Cine.Form1.resources
+D:\app\App1\Cine\Cine\obj\Release\Cine.Form2.resources
+D:\app\App1\Cine\Cine\obj\Release\Cine.Form3.resources
+D:\app\App1\Cine\Cine\obj\Release\Cine.Form4.resources
+D:\app\App1\Cine\Cine\obj\Release\Cine.Form5.resources
+D:\app\App1\Cine\Cine\obj\Release\Cine.Form6.resources
+D:\app\App1\Cine\Cine\obj\Release\Cine.Properties.Resources.resources
+D:\app\App1\Cine\Cine\obj\Release\Cine.UserControl1.resources
+D:\app\App1\Cine\Cine\obj\Release\Cine.csproj.GenerateResource.cache
+D:\app\App1\Cine\Cine\obj\Release\Cine.csproj.CoreCompileInputs.cache
+D:\app\App1\Cine\Cine\obj\Release\Cine.csproj.CopyComplete
+D:\app\App1\Cine\Cine\obj\Release\Cine.exe
+D:\app\App1\Cine\Cine\obj\Release\Cine.pdb
+C:\Users\Andres Felipe\Desktop\Cine con productos\bin\Release\Cine.exe.config
+C:\Users\Andres Felipe\Desktop\Cine con productos\bin\Release\Cine.exe
+C:\Users\Andres Felipe\Desktop\Cine con productos\bin\Release\Cine.pdb
+C:\Users\Andres Felipe\Desktop\Cine con productos\bin\Release\Guna.UI.dll
+C:\Users\Andres Felipe\Desktop\Cine con productos\obj\Release\Cine.csproj.AssemblyReference.cache
+C:\Users\Andres Felipe\Desktop\Cine con productos\obj\Release\Cine.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andres Felipe\Desktop\Cine con productos\obj\Release\Cine.Bebidas.resources
+C:\Users\Andres Felipe\Desktop\Cine con productos\obj\Release\Cine.cafeteria.resources
+C:\Users\Andres Felipe\Desktop\Cine con productos\obj\Release\Cine.CentroPago.resources
+C:\Users\Andres Felipe\Desktop\Cine con productos\obj\Release\Cine.combos.resources
+C:\Users\Andres Felipe\Desktop\Cine con productos\obj\Release\Cine.crispetas.resources
+C:\Users\Andres Felipe\Desktop\Cine con productos\obj\Release\Cine.Form2.resources
+C:\Users\Andres Felipe\Desktop\Cine con productos\obj\Release\Cine.Login.resources
+C:\Users\Andres Felipe\Desktop\Cine con productos\obj\Release\Cine.MenuPrincipal.resources
+C:\Users\Andres Felipe\Desktop\Cine con productos\obj\Release\Cine.pago.resources
+C:\Users\Andres Felipe\Desktop\Cine con productos\obj\Release\Cine.RegistroCliente.resources
+C:\Users\Andres Felipe\Desktop\Cine con productos\obj\Release\Cine.Form4.resources
+C:\Users\Andres Felipe\Desktop\Cine con productos\obj\Release\Cine.Reservas.resources
+C:\Users\Andres Felipe\Desktop\Cine con productos\obj\Release\Cine.Properties.Resources.resources
+C:\Users\Andres Felipe\Desktop\Cine con productos\obj\Release\Cine.Taquilla.resources
+C:\Users\Andres Felipe\Desktop\Cine con productos\obj\Release\Cine.UserControl1.resources
+C:\Users\Andres Felipe\Desktop\Cine con productos\obj\Release\Cine.csproj.GenerateResource.cache
+C:\Users\Andres Felipe\Desktop\Cine con productos\obj\Release\Cine.csproj.CoreCompileInputs.cache
+C:\Users\Andres Felipe\Desktop\Cine con productos\obj\Release\Cine.csproj.CopyComplete
+C:\Users\Andres Felipe\Desktop\Cine con productos\obj\Release\Cine.exe
+C:\Users\Andres Felipe\Desktop\Cine con productos\obj\Release\Cine.pdb

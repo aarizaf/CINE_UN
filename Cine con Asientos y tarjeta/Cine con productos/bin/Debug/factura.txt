@@ -1,0 +1,1 @@
+System.Windows.Forms.Label, Text: 60000/System.Windows.Forms.Label, Text: Titulo: Avatar 2/System.Windows.Forms.Label, Text: 4

@@ -1,0 +1,161 @@
+D:\app\App1\Cine\Cine\bin\Debug\Cine.exe.config
+D:\app\App1\Cine\Cine\bin\Debug\Cine.exe
+D:\app\App1\Cine\Cine\bin\Debug\Cine.pdb
+D:\app\App1\Cine\Cine\bin\Debug\Guna.UI.dll
+D:\app\App1\Cine\Cine\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\app\App1\Cine\Cine\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\app\App1\Cine\Cine\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\app\App1\Cine\Cine\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\app\App1\Cine\Cine\obj\Debug\Cine.csproj.AssemblyReference.cache
+D:\app\App1\Cine\Cine\obj\Debug\Cine.csproj.SuggestedBindingRedirects.cache
+D:\app\App1\Cine\Cine\obj\Debug\Cine.Properties.Resources.resources
+D:\app\App1\Cine\Cine\obj\Debug\Cine.csproj.GenerateResource.cache
+D:\app\App1\Cine\Cine\obj\Debug\Cine.csproj.CoreCompileInputs.cache
+D:\app\App1\Cine\Cine\obj\Debug\Cine.csproj.CopyComplete
+D:\app\App1\Cine\Cine\obj\Debug\Cine.exe
+D:\app\App1\Cine\Cine\obj\Debug\Cine.pdb
+D:\app\App1\Cine\Cine\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\app\App1\Cine\Cine\obj\Debug\Cine.UserControl1.resources
+D:\app\App1\Cine\Cine\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\app\App1\Cine\Cine\obj\Debug\Cine.Reservas.resources
+D:\app\App1\Cine\Cine\obj\Debug\Cine.RegistroCliente.resources
+D:\app\App1\Cine\Cine\obj\Debug\Cine.Login.resources
+D:\app\App1\Cine\Cine\obj\Debug\Cine.MenuPrincipal.resources
+D:\app\App1\Cine\Cine\obj\Debug\Cine.Form2.resources
+D:\app\App1\Cine\Cine\obj\Debug\Cine.Form4.resources
+D:\app\App1\Cine\Cine\obj\Debug\Cine.Taquilla.resources
+D:\app\App1\Cine\Cine\obj\Debug\Cine.CentroPago.resources
+C:\proyectoIm\Cine\bin\Debug\Cine.exe.config
+C:\proyectoIm\Cine\bin\Debug\Cine.exe
+C:\proyectoIm\Cine\bin\Debug\Cine.pdb
+C:\proyectoIm\Cine\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\proyectoIm\Cine\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\proyectoIm\Cine\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\proyectoIm\Cine\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\proyectoIm\Cine\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\proyectoIm\Cine\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\proyectoIm\Cine\obj\Debug\Cine.csproj.AssemblyReference.cache
+C:\proyectoIm\Cine\obj\Debug\Cine.csproj.SuggestedBindingRedirects.cache
+C:\proyectoIm\Cine\obj\Debug\Cine.CentroPago.resources
+C:\proyectoIm\Cine\obj\Debug\Cine.Form2.resources
+C:\proyectoIm\Cine\obj\Debug\Cine.Login.resources
+C:\proyectoIm\Cine\obj\Debug\Cine.MenuPrincipal.resources
+C:\proyectoIm\Cine\obj\Debug\Cine.RegistroCliente.resources
+C:\proyectoIm\Cine\obj\Debug\Cine.Form4.resources
+C:\proyectoIm\Cine\obj\Debug\Cine.Reservas.resources
+C:\proyectoIm\Cine\obj\Debug\Cine.Properties.Resources.resources
+C:\proyectoIm\Cine\obj\Debug\Cine.Taquilla.resources
+C:\proyectoIm\Cine\obj\Debug\Cine.UserControl1.resources
+C:\proyectoIm\Cine\obj\Debug\Cine.csproj.GenerateResource.cache
+C:\proyectoIm\Cine\obj\Debug\Cine.csproj.CoreCompileInputs.cache
+C:\proyectoIm\Cine\obj\Debug\Cine.csproj.CopyComplete
+C:\proyectoIm\Cine\obj\Debug\Cine.exe
+C:\proyectoIm\Cine\obj\Debug\Cine.pdb
+C:\proyectoIm\Cine\obj\Debug\Cine.cafeteria.resources
+C:\proyectoIm\Cine\obj\Debug\Cine.crispetas.resources
+C:\proyectoIm\Cine\obj\Debug\Cine.Bebidas.resources
+C:\proyectoIm\Cine\obj\Debug\Cine.combos.resources
+C:\proyectoIm\Cine\obj\Debug\Cine.pago.resources
+C:\Users\Andres Felipe\Desktop\Cine con productos\bin\Debug\Cine.exe.config
+C:\Users\Andres Felipe\Desktop\Cine con productos\bin\Debug\Cine.exe
+C:\Users\Andres Felipe\Desktop\Cine con productos\bin\Debug\Cine.pdb
+C:\Users\Andres Felipe\Desktop\Cine con productos\bin\Debug\Guna.UI.dll
+C:\Users\Andres Felipe\Desktop\Cine con productos\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Andres Felipe\Desktop\Cine con productos\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Andres Felipe\Desktop\Cine con productos\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Andres Felipe\Desktop\Cine con productos\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Andres Felipe\Desktop\Cine con productos\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Andres Felipe\Desktop\Cine con productos\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Andres Felipe\Desktop\Cine con productos\obj\Debug\Cine.csproj.AssemblyReference.cache
+C:\Users\Andres Felipe\Desktop\Cine con productos\obj\Debug\Cine.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andres Felipe\Desktop\Cine con productos\obj\Debug\Cine.Bebidas.resources
+C:\Users\Andres Felipe\Desktop\Cine con productos\obj\Debug\Cine.cafeteria.resources
+C:\Users\Andres Felipe\Desktop\Cine con productos\obj\Debug\Cine.CentroPago.resources
+C:\Users\Andres Felipe\Desktop\Cine con productos\obj\Debug\Cine.combos.resources
+C:\Users\Andres Felipe\Desktop\Cine con productos\obj\Debug\Cine.crispetas.resources
+C:\Users\Andres Felipe\Desktop\Cine con productos\obj\Debug\Cine.Form2.resources
+C:\Users\Andres Felipe\Desktop\Cine con productos\obj\Debug\Cine.Login.resources
+C:\Users\Andres Felipe\Desktop\Cine con productos\obj\Debug\Cine.MenuPrincipal.resources
+C:\Users\Andres Felipe\Desktop\Cine con productos\obj\Debug\Cine.pago.resources
+C:\Users\Andres Felipe\Desktop\Cine con productos\obj\Debug\Cine.RegistroCliente.resources
+C:\Users\Andres Felipe\Desktop\Cine con productos\obj\Debug\Cine.Form4.resources
+C:\Users\Andres Felipe\Desktop\Cine con productos\obj\Debug\Cine.Reservas.resources
+C:\Users\Andres Felipe\Desktop\Cine con productos\obj\Debug\Cine.Properties.Resources.resources
+C:\Users\Andres Felipe\Desktop\Cine con productos\obj\Debug\Cine.Taquilla.resources
+C:\Users\Andres Felipe\Desktop\Cine con productos\obj\Debug\Cine.UserControl1.resources
+C:\Users\Andres Felipe\Desktop\Cine con productos\obj\Debug\Cine.csproj.GenerateResource.cache
+C:\Users\Andres Felipe\Desktop\Cine con productos\obj\Debug\Cine.csproj.CoreCompileInputs.cache
+C:\Users\Andres Felipe\Desktop\Cine con productos\obj\Debug\Cine.csproj.CopyComplete
+C:\Users\Andres Felipe\Desktop\Cine con productos\obj\Debug\Cine.exe
+C:\Users\Andres Felipe\Desktop\Cine con productos\obj\Debug\Cine.pdb
+C:\Users\RYZEN\Downloads\Cine con AsientosOk(\Cine con productos\obj\Debug\Cine.csproj.AssemblyReference.cache
+C:\Users\RYZEN\Downloads\Cine con AsientosOk(\Cine con productos\obj\Debug\Cine.csproj.SuggestedBindingRedirects.cache
+C:\Users\RYZEN\Downloads\Cine con AsientosOk(\Cine con productos\obj\Debug\Cine.Bebidas.resources
+C:\Users\RYZEN\Downloads\Cine con AsientosOk(\Cine con productos\obj\Debug\Cine.cafeteria.resources
+C:\Users\RYZEN\Downloads\Cine con AsientosOk(\Cine con productos\obj\Debug\Cine.CentroPago.resources
+C:\Users\RYZEN\Downloads\Cine con AsientosOk(\Cine con productos\obj\Debug\Cine.combos.resources
+C:\Users\RYZEN\Downloads\Cine con AsientosOk(\Cine con productos\obj\Debug\Cine.crispetas.resources
+C:\Users\RYZEN\Downloads\Cine con AsientosOk(\Cine con productos\obj\Debug\Cine.Form2.resources
+C:\Users\RYZEN\Downloads\Cine con AsientosOk(\Cine con productos\obj\Debug\Cine.Login.resources
+C:\Users\RYZEN\Downloads\Cine con AsientosOk(\Cine con productos\obj\Debug\Cine.MenuPrincipal.resources
+C:\Users\RYZEN\Downloads\Cine con AsientosOk(\Cine con productos\obj\Debug\Cine.pago.resources
+C:\Users\RYZEN\Downloads\Cine con AsientosOk(\Cine con productos\obj\Debug\Cine.RegistroCliente.resources
+C:\Users\RYZEN\Downloads\Cine con AsientosOk(\Cine con productos\obj\Debug\Cine.Form4.resources
+C:\Users\RYZEN\Downloads\Cine con AsientosOk(\Cine con productos\obj\Debug\Cine.Reservas.resources
+C:\Users\RYZEN\Downloads\Cine con AsientosOk(\Cine con productos\obj\Debug\Cine.Properties.Resources.resources
+C:\Users\RYZEN\Downloads\Cine con AsientosOk(\Cine con productos\obj\Debug\Cine.Taquilla.resources
+C:\Users\RYZEN\Downloads\Cine con AsientosOk(\Cine con productos\obj\Debug\Cine.UserControl1.resources
+C:\Users\RYZEN\Downloads\Cine con AsientosOk(\Cine con productos\obj\Debug\Cine.csproj.GenerateResource.cache
+C:\Users\RYZEN\Downloads\Cine con AsientosOk(\Cine con productos\obj\Debug\Cine.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN\Downloads\Cine con AsientosOk(\Cine con productos\obj\Debug\Cine.exe
+C:\Users\RYZEN\Downloads\Cine con AsientosOk(\Cine con productos\obj\Debug\Cine.pdb
+C:\Users\RYZEN\Downloads\Cine con AsientosOk(\Cine con productos\obj\Debug\Cine.AddCredit.resources
+C:\Users\RYZEN\Downloads\Cine con AsientosOk(\Cine con productos\obj\Debug\Cine.AccionesTarjeta.resources
+C:\Users\RYZEN\Downloads\Cine con AsientosOk(\Cine con productos\obj\Debug\Cine.VerifyAndPay.resources
+C:\Users\RYZEN\Downloads\Cine con AsientosOk(\Cine con productos\bin\Debug\Cine.exe.config
+C:\Users\RYZEN\Downloads\Cine con AsientosOk(\Cine con productos\bin\Debug\Cine.exe
+C:\Users\RYZEN\Downloads\Cine con AsientosOk(\Cine con productos\bin\Debug\Cine.pdb
+C:\Users\RYZEN\Downloads\Cine con AsientosOk(\Cine con productos\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\RYZEN\Downloads\Cine con AsientosOk(\Cine con productos\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\RYZEN\Downloads\Cine con AsientosOk(\Cine con productos\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\RYZEN\Downloads\Cine con AsientosOk(\Cine con productos\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\RYZEN\Downloads\Cine con AsientosOk(\Cine con productos\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\RYZEN\Downloads\Cine con AsientosOk(\Cine con productos\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\RYZEN\Downloads\Cine con AsientosOk(\Cine con productos\obj\Debug\Cine.csproj.CopyComplete
+C:\Users\RYZEN\Downloads\Cine con Asientos y tarjeta\Cine con productos\bin\Debug\Cine.exe.config
+C:\Users\RYZEN\Downloads\Cine con Asientos y tarjeta\Cine con productos\bin\Debug\Cine.exe
+C:\Users\RYZEN\Downloads\Cine con Asientos y tarjeta\Cine con productos\bin\Debug\Cine.pdb
+C:\Users\RYZEN\Downloads\Cine con Asientos y tarjeta\Cine con productos\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\RYZEN\Downloads\Cine con Asientos y tarjeta\Cine con productos\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\RYZEN\Downloads\Cine con Asientos y tarjeta\Cine con productos\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\RYZEN\Downloads\Cine con Asientos y tarjeta\Cine con productos\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\RYZEN\Downloads\Cine con Asientos y tarjeta\Cine con productos\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\RYZEN\Downloads\Cine con Asientos y tarjeta\Cine con productos\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\RYZEN\Downloads\Cine con Asientos y tarjeta\Cine con productos\obj\Debug\Cine.csproj.AssemblyReference.cache
+C:\Users\RYZEN\Downloads\Cine con Asientos y tarjeta\Cine con productos\obj\Debug\Cine.csproj.SuggestedBindingRedirects.cache
+C:\Users\RYZEN\Downloads\Cine con Asientos y tarjeta\Cine con productos\obj\Debug\Cine.AddCredit.resources
+C:\Users\RYZEN\Downloads\Cine con Asientos y tarjeta\Cine con productos\obj\Debug\Cine.Bebidas.resources
+C:\Users\RYZEN\Downloads\Cine con Asientos y tarjeta\Cine con productos\obj\Debug\Cine.cafeteria.resources
+C:\Users\RYZEN\Downloads\Cine con Asientos y tarjeta\Cine con productos\obj\Debug\Cine.CentroPago.resources
+C:\Users\RYZEN\Downloads\Cine con Asientos y tarjeta\Cine con productos\obj\Debug\Cine.combos.resources
+C:\Users\RYZEN\Downloads\Cine con Asientos y tarjeta\Cine con productos\obj\Debug\Cine.crispetas.resources
+C:\Users\RYZEN\Downloads\Cine con Asientos y tarjeta\Cine con productos\obj\Debug\Cine.Form2.resources
+C:\Users\RYZEN\Downloads\Cine con Asientos y tarjeta\Cine con productos\obj\Debug\Cine.AccionesTarjeta.resources
+C:\Users\RYZEN\Downloads\Cine con Asientos y tarjeta\Cine con productos\obj\Debug\Cine.Login.resources
+C:\Users\RYZEN\Downloads\Cine con Asientos y tarjeta\Cine con productos\obj\Debug\Cine.MenuPrincipal.resources
+C:\Users\RYZEN\Downloads\Cine con Asientos y tarjeta\Cine con productos\obj\Debug\Cine.pago.resources
+C:\Users\RYZEN\Downloads\Cine con Asientos y tarjeta\Cine con productos\obj\Debug\Cine.RegistroCliente.resources
+C:\Users\RYZEN\Downloads\Cine con Asientos y tarjeta\Cine con productos\obj\Debug\Cine.Form4.resources
+C:\Users\RYZEN\Downloads\Cine con Asientos y tarjeta\Cine con productos\obj\Debug\Cine.Reservas.resources
+C:\Users\RYZEN\Downloads\Cine con Asientos y tarjeta\Cine con productos\obj\Debug\Cine.Properties.Resources.resources
+C:\Users\RYZEN\Downloads\Cine con Asientos y tarjeta\Cine con productos\obj\Debug\Cine.Taquilla.resources
+C:\Users\RYZEN\Downloads\Cine con Asientos y tarjeta\Cine con productos\obj\Debug\Cine.UserControl1.resources
+C:\Users\RYZEN\Downloads\Cine con Asientos y tarjeta\Cine con productos\obj\Debug\Cine.VerifyAndPay.resources
+C:\Users\RYZEN\Downloads\Cine con Asientos y tarjeta\Cine con productos\obj\Debug\Cine.csproj.GenerateResource.cache
+C:\Users\RYZEN\Downloads\Cine con Asientos y tarjeta\Cine con productos\obj\Debug\Cine.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN\Downloads\Cine con Asientos y tarjeta\Cine con productos\obj\Debug\Cine.csproj.CopyComplete
+C:\Users\RYZEN\Downloads\Cine con Asientos y tarjeta\Cine con productos\obj\Debug\Cine.exe
+C:\Users\RYZEN\Downloads\Cine con Asientos y tarjeta\Cine con productos\obj\Debug\Cine.pdb
+C:\Users\Andres Felipe\Desktop\Cine con Asientos y tarjeta\Cine con Asientos y tarjeta\Cine con productos\obj\Debug\Cine.csproj.AssemblyReference.cache
+C:\Users\Andres Felipe\Desktop\Cine con Asientos y tarjeta\Cine con Asientos y tarjeta\Cine con productos\obj\Debug\Cine.exe
+C:\Users\Andres Felipe\Desktop\Cine con Asientos y tarjeta\Cine con Asientos y tarjeta\Cine con productos\obj\Debug\Cine.pdb
